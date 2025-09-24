@@ -1,7 +1,7 @@
 package com.example.canvas;
 
 public abstract class Shape {
-    private int x;
-    private int y;
-    private String color="Blue";
+    protected int x;
+    protected int y;
+    protected String color = "$PUT_YOUR_CHOICE_OF_COLOR"
 }
